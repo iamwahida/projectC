@@ -54,24 +54,6 @@ a.dropdown-item:hover {
   background:#a6795b;
   padding:12px;
 }
-.typer {
-  font-family: "Gruppo";
-  font-weight: 400;
-}
-footer {
-  height: 10vh;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-}
-i {
-  display: flex;
-  flex-direction: row;
-}
-
-
-
 
 /* footer */
   
